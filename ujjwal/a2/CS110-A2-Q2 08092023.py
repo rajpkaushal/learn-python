@@ -1,0 +1,5 @@
+u = int(input("velocity (u): "))
+a = int(input("acceleration (a): "))
+t = int(input("time (t): "))
+v = u + (a*t)
+print(v)

@@ -1,0 +1,5 @@
+a = input( "what is your name: ")
+b = input( "what is DOB: ")
+print(" Hello,", a )
+c = (10 July 2023 - 25 feb 2004)
+print( c)
