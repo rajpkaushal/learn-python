@@ -5,7 +5,8 @@ n1 = str(n)
 l = len(n1)
 sum = 0
 m = 0
-while n % 10 > 0:
+#while n % 10 > 0:
+for i in range(l):
     m = n%10
     sum = sum + (m**l)
     n = n//10
