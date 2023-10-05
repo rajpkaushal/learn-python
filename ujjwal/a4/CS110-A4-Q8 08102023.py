@@ -22,7 +22,6 @@ for x in range (1000001):
   l = len(n1)
   sum = 0
   m = 0
-  
   for i in range(l):
     m = n%10
     sum = sum + (m**l)
